@@ -1,0 +1,17 @@
+{
+  "name": "epikindifi",
+  "version": "1.0.0",
+  "description": "Assessment",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.1"
+  }
+}
